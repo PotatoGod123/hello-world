@@ -1,6 +1,6 @@
 # HELLO_w0rld
 
-This is a hello world demo for code 102!  
+This is a hello world demo for code 102!  :+1:
 
 ## Author  
 
