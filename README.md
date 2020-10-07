@@ -8,9 +8,10 @@ Cristian Robles
 
 ## Date
 
-October 07, 2020
+October 07, 2020-start
+October 07, 2020-Change test
 
 
 ## Version
 
-Ver = 1.0
+Ver = 1.1
