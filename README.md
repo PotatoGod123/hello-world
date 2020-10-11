@@ -13,6 +13,6 @@ October 07, 2020-Change test
 
 ## Version  
 
-Ver = 1.1  234678910
-Ver = 1.0 1112313
-1
+Ver = 1.1 
+Ver = 1.0 
+
